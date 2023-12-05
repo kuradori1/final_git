@@ -1,3 +1,4 @@
 nama : itachi
 umur : 25
 pek  : intelijen
+dom  : konoha
